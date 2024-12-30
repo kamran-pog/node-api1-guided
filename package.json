@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "nodemon": "^2.0.4"
+    },
+    "name": "node-api1-guided",
+    "description": "Guided project for **Node API 1** Module.",
+    "version": "1.0.0",
+    "main": "database.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/miragekamran/node-api1-guided.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/miragekamran/node-api1-guided/issues"
+    },
+    "homepage": "https://github.com/miragekamran/node-api1-guided#readme"
+}

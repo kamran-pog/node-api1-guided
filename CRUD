@@ -1,0 +1,6 @@
+CRUD
+-----
+Create = POST
+READ = GET
+Update = PUT/PATCH
+Delete = DELETE
